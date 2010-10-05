@@ -1,0 +1,5 @@
+.buildpath
+.project
+.settings/*
+tests/log/*
+tests/log/testdox.html
